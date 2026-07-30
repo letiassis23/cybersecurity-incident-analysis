@@ -52,7 +52,7 @@ Network traffic was captured using **tcpdump** to determine the cause of the inc
 ```
 .
 ├── README.md
-├── Cybersecurity-incident-report-network-traffic-analysis.pdf
+├── incident-report.pdf
 └── tcpdump-analysis.md
 ```
 
